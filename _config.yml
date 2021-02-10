@@ -88,3 +88,7 @@ defaults:
     values:
       layout: post
       read_time: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
