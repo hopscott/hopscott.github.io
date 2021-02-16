@@ -7,4 +7,4 @@ actions:
     url: "#pdf-asset"
 ---
 
-![Scott Willis](/assets/images/scott-willis-cv.png)
+![Scott Willis](/assets/images/scott-willis-cv.png){:height="1600px" width="900px"}
