@@ -7,4 +7,4 @@ actions:
     url: "#pdf-asset"
 ---
 
-![Scott Willis](/assets/images/scott-willis-cv.jpg)
+![Scott Willis](/assets/images/scott-willis-cv.png)
