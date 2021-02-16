@@ -4,110 +4,198 @@
     "label": "Specialist in Materials Science, Programming and British Humour",
     "picture": "",
     "email": "scott.willis2706@gmail.com",
-    "phone": "On demand",
+    "phone": "(+33)/(+44) On demand",
     "website": "https://hopscott.github.io",
-    "summary": "An expert",
+    "summary": "",
     "location": {
-      "address": "123 Sesame Street",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Brighton/Bristol/London, UK",
+      "postalCode": "",
+      "city": "Paris",
+      "countryCode": "France (Current Address: June 2019 - Feb 2021) ",
+      "region": ""
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "username": "Scott Willis",
+        "url": "https://www.linkedin.com/in/scott-willis-594253a2/"
       },
       {
         "network": "GitHub",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "username": "hopscott",
+        "url": "https://github.com/hopscott"
       }
     ]
   },
   "work": [
     {
-      "company": "The Whip",
-      "position": "CEO/President",
-      "website": "https://thewh.ip",
-      "startDate": "2013-12-01",
-      "endDate": "",
-      "summary": "Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+      "company": "Nexdot",
+      "position": "Ingénieur en Mésures Physiques",
+      "website": "https://nexdot.fr",
+      "startDate": "2019-06-03",
+      "endDate": "2021-02-01",
+      "summary": "",
       "highlights": [
-        "Concealed nipper in embrodiery.",
-        "Dealt with Elastical Gomez on a daily basis."
+        "Developed applications with GUIs in Python & LabVIEW for collecting & cleaning measurement data from instruments for data visualisation.",
+        "Computer vision projects for detecting objects and patterns for QR codes.",
+        "NLP projects for extracting data from experiment reports using regex.",
+        "VBA scripts for macro-enabled laboratory books that extract & upload data between Word & Excel files to maintain ISO9000 quality standards."
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "Steve's Meat Market",
-      "position": "Assistant",
-      "website": "",
-      "startDate": "1995-01-01",
-      "endDate": "1997-03-20",
-      "summary": "Ground up some sort of grasshopper mash for fishing.",
+      "company": "Sensata",
+      "position": "ASIC Device Failure Analyst",
+      "website": "https://www.sensata.com",
+      "startDate": "2018-09-01",
+      "endDate": "2019-06-01",
+      "summary": "",
       "highlights": [
-        "Awarded a 'Helium Biscuit'"
+        "Completed LabVIEW Core 1 training program with NI to work on data collection of failed electronic devices (ASICs, PCBs, MEMS, Batteries).",
+        "Developed a Python executable for assembling test data for over 5000 devices and uploading the results into an SQL database with pyodbc.",
+        "Scatterplot matrix analysis over the newly acquired data set of failed sensor devices with seaborn & pandas identified fingerprint patterns of failure.",
+        "Using these fingerprint characteristics for sorting newly incoming devices, the number of failure analysis cases closed each month by the department increased from 20 to 150 cases within one month of their identification."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Ointment",
-      "area": "Digital Skillets",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Perpendicular Crosstalk",
-        "CS2011 - Introduction to Moisturization"
+      "institution": "University of Bristol",
+      "area": "Chemistry with Study Abroad",
+      "studyType": "MSci",
+      "startDate": "2014-08-01",
+      "endDate": "2018-06-01",
+      "gpa": "First Class Honours",
+      "courses": [""
       ]
     }
   ],
   "awards": [
     {
-      "title": "Warble Pioneer Award",
-      "date": "2001-11-01",
-      "awarder": "Levi Goulet",
-      "summary": "Have you seen my turtle?"
+      "title": "British Biology Olympiad Competition",
+      "date": "2014",
+      "awarder": "Royal Society of Biology, London",
+      "summary": "Gold Award"
+    },
+    {
+      "title": "International Chemistry Olympiad Competition",
+      "date": "2014",
+      "awarder": "Royal Society of Chemistry, London",
+      "summary": "Silver Award"
     }
   ],
   "publications": [
     {
-      "name": "Radio Julius",
-      "publisher": "Tanyo Lubbock",
-      "releaseDate": "2014-10-01",
-      "website": "https://en.rhy.es",
-      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+      "name": "Stabilizer-Free CuIr Alloy Nanoparticle Catalysts",
+      "publisher": "American Chemical Society",
+      "releaseDate": "2019",
+      "website": "https://doi.org/10.1021/acs.chemmater.9b04138",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
+      "name": "Python",
+      "level": "",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "pandas",
+        "numpy",
+        "seaborn",
+        "matplotlib",
+        "pyodbc",
+        "openpyxl",
+        "Regex",
+        "Tesorflow",
+        "TKinter",
+        "unittest",
+        "PyInstaller",
+        "git"
       ]
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
+      "name": "Computer Vision",
+      "level": "",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "OpenCV",
+        "scikit-image",
+        "Tesseract"
+      ]
+    },
+    {
+      "name": "Natural Language Processing",
+      "level": "",
+      "keywords": [
+        "Document-term Matrix",
+        "TextBlob"
+      ]
+    },
+    {
+      "name": "Django Web Framework",
+      "level": "",
+      "keywords": [
+        "React",
+        "JS",
+        "HTML",
+        "CSS",
+        "mySQL"
+      ]
+    },
+    {
+      "name": "LabVIEW",
+      "level": "",
+      "keywords": [
+        "State Machines",
+        "GUI",
+        "Live Spectra"
+      ]
+    },
+    {
+      "name": "VBA",
+      "level": "",
+      "keywords": [
+        "Data extraction from Word/Excel"
+      ]
+    },
+    {
+      "name": "MatLab",
+      "level": "",
+      "keywords": [
+        "Monte Carlo Simulations"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "",
+      "keywords": [
+        "Interactive Macro-enabled Documents",
+        "VLOOKUP",
+        "PowerQuery",
+        "Pivot Tables"
+      ]
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Access",
+        "Visio",
+        "Sway",
+        "Word",
+        "Powerpoint"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
@@ -121,8 +209,12 @@
   ],
   "references": [
     {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Simon M. Humphrey, MChem, Ph. D.",
+      "reference": "It is my pleasure to support Scott, and I recommend him to you without reservation. I have known Scott for approximately 2 years. He worked in my research labs in Austin, Texas, as a visiting scholar, via an international exchange program. Scott took my graduate-level classes during his time in Austin, and also performed for-credit research studies alongside one of my current Ph.D. students during the 2018/19 academic year. Please also note that before taking a faculty position in Austin, I was on the faculty at the University of Cambridge and held a teaching fellowship there.
+      I first met Scott in my role as adviser for incoming overseas exchange students in our department. Scott immediately struck me as a highly motivated, serious and mature student. Scott took all the extracurricular opportunities available to him at U.T. Austin, including working in two research labs, including my own. In my lab, Scott learned how to synthesize and characterize noble metal nanoparticle catalyst materials, prepared using non-conventional methods, including microwave-assisted synthesis. Throughout his time in my group, I interacted with him extensively, including in group meetings. He is an excellent communicator and works very well with others. He was meticulous in his laboratory work, and worked very safely. Scott also displayed perseverance in the manufacture of the mesoporous and amorphous catalyst support materials. He quickly adapted well to new areas of research and showed the hallmarks of an excellent researcher with extensive capability. I would assert that Scott is technically minded, so he was adept at working with specialist equipment such as microwave reaction chambers and catalyst line trials, grasping new analytical techniques quickly. In my labs, he learned a few characterization skills in a truly hands-on sense, including powder X-ray diffraction and inductively coupled plasma atomic emission spectroscopy.
+      Scott was collaborative in his research efforts. He is clearly a determined and ambitious individual with the drive and enthusiasm to move into the field of health data science. Scott is a strong team player as well as a future leader. He was always receptive to new ideas and improvements for the project. Scott also spent time reviewing contemporary literature and showed a genuine interest in recent advances in our field
+      of research. I would happily welcome Scott back into my own lab as a graduate student, or would recommend him to any of my colleagues. From my first-hand observations, I can say with certainty that Scott will thrive in any research environment.
+      I have no reservations in recommending Scott; I would say he is comparable to the top 5% of undergraduate students graduating from UT"
     }
   ]
 }

@@ -9,7 +9,7 @@ image:
 #  Manners Group Research Project: 
 ## Living anionic polymerisations of PFS metallopolymers and self-assembly.
 
-* 
+* Metallopolymer synthesis and crystallisation driven self assembly into nanoplatelets, etched into nanorings for porous liquid crystals. 
 
 Preparation of 2D nano-particles for liquid crystalline applications by CDSA. This involved Transmission Electron Microscopy (TEM), SEM, MALDI, GPC, NMR and glove-box use with highly air-sensitive living anionic polymerisations. This work involved generating self-assembled monodisperse polyferrocenylsilane hexagonal platelets with block copolymer coronas and packing them to form Smectic A liquid crystals analysed by POM, SAXS and WAXS.
 

@@ -17,4 +17,4 @@ Please feel free to check out my CV on the **CV tab**, and for more in-depth det
 
 ![Scott Willis](/assets/images/scott-willis.jpg){:height="700px" width="400px"}
 
-I was able to build this website with Jekyll and the wonderful hosting service provided by GitHub pages.
+I built this website through Jekyll and Ruby with hosting on GitHub pages.
