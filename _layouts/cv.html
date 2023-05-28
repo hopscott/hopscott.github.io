@@ -5,6 +5,22 @@ layout: default
 {% assign cv = site.data.cv %}
 {% include cv/intro.html %}
 
+<head>
+  <!-- Other meta tags, CSS, and scripts -->
+  <script>
+  (function(win, doc) {
+    var readme = win.readme || function() { (readme.q = readme.q || []).push(arguments); };
+    readme('hjid', 1234567890);
+    readme('hjsv', 6);
+    var head = doc.getElementsByTagName('head')[0];
+    var script = doc.createElement('script');
+    script.async = 1;
+    script.src = 'https://static.readme.com/c/readme-' + readme.hjid + '.js?sv=' + readme.hjsv;
+    head.appendChild(script);
+  })(window, document);
+  </script>
+</head>
+
 <main id="main" class="page-content" aria-label="Content">
   <div class="index inner">
     <div>{{ content }}</div>
